@@ -18,7 +18,7 @@ def index_post():
     target_language = request.form['language']
 
     # Load the values from .env
-    key = "be2f9249d91347549238e2d690c341ae"
+    key = "3a1886f158234523bbbcc7140b5e3e4c"
     endpoint = "https://api.cognitive.microsofttranslator.com/"
     location = "eastus"
 
